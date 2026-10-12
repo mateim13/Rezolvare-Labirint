@@ -59,6 +59,12 @@ All files are saved next to the script:
 
 The GIF is overwritten on each run, while CSV and HTML reports are appended.
 
+## Example output
+
+![3d maze](results/labirint_0_0_0_to_2_2_0_20261013_002832.png)
+
+![Path animation](results/animatie_labirint.gif)
+
 ## Project structure
 
 | Function | Purpose |
